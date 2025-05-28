@@ -1,5 +1,5 @@
 # meowlish
-
+```
 #purpose is to be a cute language :3
 meow    -> me/myself/I/I am
 mow     -> you/yourself/you're
@@ -55,3 +55,4 @@ bark    -> dog
 bah     -> sheep
 sss    
 -> snake
+```
